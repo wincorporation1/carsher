@@ -353,7 +353,7 @@ body {
 }
 .video__popup:before {
     content: "";
-    background-image: url(images/video_btn.svg);
+    background-image: url(/images/video_btn.svg);
     position: absolute;
     display: inline-block;
     width: 25px;
