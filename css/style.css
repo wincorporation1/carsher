@@ -391,7 +391,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     width: 270px;
-    border: 1px solid transparent;
+   border: 1px solid rgba(209, 197, 28, 0.25);
     min-height: 300px;
     text-align: center;
     margin-right: 30px;
